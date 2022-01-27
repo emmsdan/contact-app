@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "327350915935",
+    "project_id": "themis-tocles",
+    "storage_bucket": "themis-tocles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327350915935:android:0bbddb1a1c6f7b8f8fdcea",
+        "android_client_info": {
+          "package_name": "com.themis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327350915935-s7ik7necqtcgen3ttn7e3md2v46ldmvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWAcOkphGA1I3YyzxwZLJbtWHqeL4faM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327350915935-s7ik7necqtcgen3ttn7e3md2v46ldmvq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "327350915935-ftbh958avvlsb3da1cb1lei3h2mt3jav.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emmsdan.themis"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
